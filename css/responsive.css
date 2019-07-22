@@ -72,7 +72,7 @@
   }
 
   #navbar nav a.menu-icon {
-    display: inline-block;
+    display: block;
     left: 0;
     top: 0;
   }
