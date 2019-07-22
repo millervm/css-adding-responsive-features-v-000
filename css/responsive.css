@@ -77,6 +77,10 @@
     top: 0;
   }
 
+  #navbar.clearfix {
+    display: none;
+  }
+
   #logo h2 {
     display: none;
   }
