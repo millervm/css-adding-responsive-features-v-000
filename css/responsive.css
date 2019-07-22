@@ -66,7 +66,7 @@
   #navbar {
     width: 100%;
   }
-
+  
   #navbar nav a {
     display: none;
   }
@@ -82,7 +82,7 @@
   }
 
   #social {
-    margin-top: 84px;
+    margin-top: 0px;
   }
 
   #social a {
