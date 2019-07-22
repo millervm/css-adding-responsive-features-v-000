@@ -68,7 +68,9 @@
   }
 
   #navbar nav a.menu-icon {
-    display: inline;
+    display: inline-block;
+    margin-left: 5px;
+    margin-top: 5px;
   }
 
   #logo h2 }{
