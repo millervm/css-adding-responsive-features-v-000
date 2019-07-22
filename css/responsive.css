@@ -63,6 +63,10 @@
 }
 
 @media screen and (max-width: 700px) {
+  #navbar nav a {
+    display: block;
+  }
+  
   #navbar nav a.menu-icon {
     display: inline;
   }
