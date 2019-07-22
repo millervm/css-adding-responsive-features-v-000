@@ -70,4 +70,13 @@
   #logo h2 }{
     display: none;
   }
+
+  #social {
+    top: 163px;
+  }
+
+  #social a {
+    display: inline-block;
+    width: 140px;
+  }
 }
