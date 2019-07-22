@@ -84,6 +84,9 @@
   #social {
     top: 0px;
     width: 140px;
+  }
+
+  #social a {
     display: inline-block;
   }
 
