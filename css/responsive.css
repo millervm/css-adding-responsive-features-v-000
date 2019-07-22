@@ -61,3 +61,28 @@
     height: auto;
   }
 }
+
+@media screen and (max-width: 700px) {
+  #navbar nav a {
+    display: none;
+  }
+
+  #navbar nav a.menu-icon {
+    display: inline-block;
+    margin-left: 5px;
+    margin-top: 5px;
+  }
+
+  #logo h2 {
+    display: none;
+  }
+
+  #social {
+    margin-top: 84px;
+  }
+
+  #social a {
+    display: inline-block;
+    width: 140px;
+  }
+}
