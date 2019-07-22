@@ -73,6 +73,10 @@
     top: 0;
   }
 
+  #navbar nav a {
+    text-align: left;
+  }
+
   #logo h2 {
     display: none;
   }
